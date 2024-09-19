@@ -34,7 +34,7 @@ CSS GRID
 
 ## SINTAXIS CSS
 
-TODO    ==> regla CSS
-h1      ==> selector
-color   ==> propiedad
-peru    ==> valor
+ TODO    ==> regla CSS  
+ h1      ==> selector  
+ color   ==> propiedad  
+ peru    ==> valor  
